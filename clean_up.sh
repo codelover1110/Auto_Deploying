@@ -1,0 +1,2 @@
+rm -rf custom_dealer_crawl_v2/  google-chrome-stable_current_x86_64.*  start_selenoid_cron.sh  create_selenoid_env.sh  create_python_env.sh  load_balancer_lb_cron.sh  /etc/grid-router/quota/test.xml start_dealer_crawler_cron.sh
+exit
